@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: task-7-1
+Version: 0.0.0
+Summary: ROS2 turtle controller with keyboard movement and color perception
+Maintainer: mariam-elalfy
+Maintainer-email: mariam-elalfy@todo.todo
+License: TODO: License declaration
+Provides-Extra: test

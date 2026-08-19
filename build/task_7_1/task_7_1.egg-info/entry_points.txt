@@ -1,0 +1,2 @@
+[console_scripts]
+controller = task_7_1.controller:main
